@@ -40,6 +40,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 - [Tool 1 Name](link-to-tool1) - Short description of Tool 1.
 - [Tool 2 Name](link-to-tool2) - Short description of Tool 2.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## Resources
 
