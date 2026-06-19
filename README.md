@@ -38,6 +38,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 *Tools and utilities that help in the development, deployment, or management of AI agents.*
 
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads); connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Tool 1 Name](link-to-tool1) - Short description of Tool 1.
 - [Tool 2 Name](link-to-tool2) - Short description of Tool 2.
 
